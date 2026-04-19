@@ -93,7 +93,7 @@
           type="submit"
           class="submit-btn"
           :disabled="isSubmitting"
-          :aria-describedby="submitStatus"
+          :aria-describedby:string="submitStatus"
         >
           <span v-if="isSubmitting" class="loading-spinner" aria-hidden="true"></span>
           {{ submitButtonText }}

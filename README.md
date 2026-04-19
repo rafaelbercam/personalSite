@@ -449,7 +449,7 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 - **Email**: seu.email@example.com
 - **LinkedIn**: [Rafael Bercam](https://linkedin.com)
-- **GitHub**: [@rafael-bercam](https://github.com)
+- **GitHub**: [@rafaelbercam](https://github.com)
 
 ---
 

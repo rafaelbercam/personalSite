@@ -3,8 +3,8 @@
     <div class="container">
       <div class="footer-content">
         <div class="footer-section">
-          <h3>Rafael Bercam</h3>
-          <p>Full Stack Developer</p>
+          <h3>Rafael Berçam</h3>
+          <p>Software Engineer</p>
         </div>
 
         <div class="footer-section">
@@ -20,16 +20,15 @@
         <div class="footer-section">
           <h4>Redes Sociais</h4>
           <div class="social-links">
-            <a href="https://github.com" target="_blank" title="GitHub">🐙</a>
-            <a href="https://linkedin.com" target="_blank" title="LinkedIn">💼</a>
-            <a href="https://twitter.com" target="_blank" title="Twitter">𝕏</a>
-            <a href="mailto:seu@email.com" title="Email">✉️</a>
+            <a href="https://github.com/rafaelbercam" target="_blank" title="GitHub">🐙</a>
+            <a href="https://linkedin.com/in/rafaelbercam" target="_blank" title="LinkedIn">💼</a>
+            <a href="mailto:faelbercam@gmail.com" title="Email">✉️</a>
           </div>
         </div>
       </div>
 
       <div class="footer-bottom">
-        <p>&copy; {{ new Date().getFullYear() }} Rafael Bercam. Todos os direitos reservados.</p>
+        <p>&copy; {{ new Date().getFullYear() }} Rafael Berçam. Todos os direitos reservados.</p>
       </div>
     </div>
   </footer>

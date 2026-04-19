@@ -4,7 +4,7 @@
       <div class="hero-content">
         <div class="hero-text">
           <h1 class="slide-in-left">
-            Olá! Sou <span class="accent">Rafael Bercam</span>
+            Olá! Sou <span class="accent">Rafael Berçam</span>
           </h1>
           <p class="subtitle fade-in-up">
             QA Engineer Specialist & Tech Lead apaixonado por automação e qualidade de software

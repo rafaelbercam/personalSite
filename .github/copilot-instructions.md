@@ -4,7 +4,7 @@ Este arquivo contém instruções específicas para o desenvolvimento e manuten�
 
 ## 📋 Contexto do Projeto
 
-- **Nome**: Portfólio Pessoal de Rafael Bercam
+- **Nome**: Portfólio Pessoal de Rafael Berçam
 - **Tipo**: Site estático com Vue.js 3
 - **Framework**: Vite + Vue.js 3 (Composition API)
 - **Estilo**: Tech dark theme com paleta azul escuro e ciano

@@ -2,7 +2,7 @@
 import type { Project, TechnologyCategory, ContactInfo, SiteConfig } from '@/types'
 
 export const siteConfig: SiteConfig = {
-  name: 'Rafael Bercam',
+  name: 'Rafael Berçam',
   title: 'QA Engineer Specialist & Tech Lead',
   description: 'Portfólio profissional focado em automação de testes e qualidade de software',
   url: 'https://rafaelbercam.dev',

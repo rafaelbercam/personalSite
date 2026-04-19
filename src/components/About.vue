@@ -46,7 +46,7 @@
             <div class="avatar-placeholder"></div>
             <h3>{{ siteConfig.name }}</h3>
             <p class="role">{{ siteConfig.title }}</p>
-            <p class="location">📍 Brazil</p>
+            <p class="location">📍 Belo Horizonte - Minas Gerais, Brasil</p>
           </div>
         </div>
       </div>
